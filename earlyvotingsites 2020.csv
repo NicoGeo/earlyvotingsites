@@ -1,4 +1,4 @@
-Name,Address,City,Dates Open,Curbside Dropoff Available,Hours,Emergency Voting Times,Latitude,Longitude,county
+Name,Address,City,DatesOpen,CurbsideDropoffAvailable,Hours,EmergencyVotingTimes,Latitude,Longitude,county
 Pima County Recorder's Main Office,240 N. Stove Ave.,Tucson,10/07/2020-10/30/2020,10/19-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.225538,-110.97089,Pima
 Pima County Recorder's East Side Annex,6920 E. Broadway Blvd.,Tucson,10/07/2020-10/30/2020,10/19-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.220354,-110.84434,Pima
 Pima County Recorder's Ballot Processing Center,6550 S. Country Club Rd.,Tucson,10/07/2020-10/30/2020,10/26-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.132919,-110.92729,Pima
